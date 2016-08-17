@@ -1,0 +1,12 @@
+OH O HOME AI PO (MONSTRO SUBTRAIR(MONSTRO A, MONSTRO B))
+      BORA CUMPADE A - B;
+BIRL
+
+HORA DO SHOW
+      MONSTRO A, B, RESULTADO;
+      CE QUER VER ESSA PORRA? ("Digite o valor das variaveis A e B\n");
+      QUE QUE CE QUER MONSTRAO? ("%d %d", &A, &B);
+      RESULTADO = AJUDA O MALUCO TA DOENTE SUBTRAIR(A, B);
+      CE QUER VER ESSA PORRA? ("O resultado da subtracao e: %d\n", RESULTADO);
+      BORA CUMPADE 0;
+BIRL
